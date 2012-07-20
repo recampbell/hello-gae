@@ -1,3 +1,3 @@
 print 'Content-Type: text/plain'
 print ''
-print 'Hello, World! -- from CloudBees'
+print 'Hello, GAE! -- from CloudBees'
